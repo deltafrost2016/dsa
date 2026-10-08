@@ -1,6 +1,6 @@
-# NeetCode 150 — JavaScript practice
+# DSA — JavaScript practice
 
-150 problems from the NeetCode list. Every problem is an empty stub plus a thorough test file; **you write the solutions**. A stub looks like this and throws until you replace the body:
+150 problems from the dsa. Every problem is an empty stub plus a thorough test file; **you write the solutions**. A stub looks like this and throws until you replace the body:
 
 ```js
 export function containsDuplicate(nums) {
