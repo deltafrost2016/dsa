@@ -1,0 +1,18 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DSA practice repo: stubs and tests, you write the solutions.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node scripts/test-all.js",
+    "test:lib": "node scripts/test-all.js --lib",
+    "cat": "node scripts/cat.js",
+    "one": "node scripts/one.js",
+    "watch": "node scripts/one.js --watch",
+    "progress": "node scripts/progress.js"
+  }
+}
